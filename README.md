@@ -1,12 +1,7 @@
 # Hi there, I'm Rafid Faiz Putra! 👋
 ### Fullstack & Backend Developer
 
-An Information Systems student at **Universitas Singaperbangsa Karawang** specializing in Fullstack and Backend Development using **Node.js (Express.js)**, **Laravel**, and **React (Vite)**.
-
----
-
-### 👨‍💻 About Me
-Experienced in building a property sales web platform using the Laravel framework and MySQL, as well as an inventory management system integrated via RESTful APIs using React.js and Express.js. Skilled in optimizing development workflows and writing efficient code by leveraging AI-powered tools (**Google Gemini**, **ChatGPT**, **Claude**).
+An Information Systems student at **Universitas Singaperbangsa Karawang** specializing in Fullstack and Backend Development using **Node.js (Express.js)**, **Laravel**, and **React (Vite)**. Skilled in optimizing development workflows and writing efficient code by leveraging AI-powered tools (**Google Gemini**, **ChatGPT**, **Claude**).
 
 - 🎓 **Education:** Information Systems — Universitas Singaperbangsa Karawang *(Sep 2023 - Present)*
 - 💡 **Core Strengths:** Problem Solving, AI Prompt Engineering, Analytical Thinking, Self-Management
